@@ -1,15 +1,17 @@
 btn:
   home: 主页
-  blog: 文章
-  wiki: 项目
+  blog: 博客
+  wiki: 文档
   recent_publish: 近期发布
-  all_wiki: 所有项目
+  all_wiki: 所有文档
   category: 分类
   categories: 分类
   tag: 标签
   tags: 标签
   archives: 归档
   getting_started: 开始使用
+  notes: 笔记
+  more: 更多
 
 meta:
   recent_update: 最近更新
